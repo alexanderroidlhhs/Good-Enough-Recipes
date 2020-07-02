@@ -3,7 +3,7 @@
 These recipes originate from the summer school of the digital methods initiative 2020. 
 
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](Screenshot 2020-06-29 at 14.07.19.png "Logo Title Text 1")
 
 
 ## Scraping Instagram
