@@ -2,7 +2,7 @@
 
 These recipes originate from the summer school of the digital methods initiative 2020. 
 
-![](https://github.com/alexanderroidlhhs/Good-Enough-Recipes/blob/master/Screenshot%202020-06-29%20at%2014.07.19.png | width=48)
+![](https://github.com/alexanderroidlhhs/Good-Enough-Recipes/blob/master/Screenshot%202020-06-29%20at%2014.07.19.png)
 
 
 ## Scraping Instagram
