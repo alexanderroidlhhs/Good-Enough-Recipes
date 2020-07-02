@@ -2,8 +2,8 @@
 
 These recipes originate from the summer school of the digital methods initiative 2020. 
 
+![alt text](Screenshot 2020-06-29 at 14.07.19.png  "Instagram says no.")
 
-[logo]: Screenshot 2020-06-29 at 14.07.19.png "Instagram says no."
 
 ## Scraping Instagram
 
